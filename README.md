@@ -19,4 +19,4 @@ Date        | Code Subbmited
 
 
 
-## Cumilative total =1
+## Cumilative total = 1
