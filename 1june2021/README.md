@@ -158,3 +158,7 @@ Find the total number of groups formed in the end.
 - Precalculation reguired otherwise TLE
 - 1e7=10<sup>7</sup> not 10e7
 </details>
+<details>
+<summary>Sieve of Eratosthenes </summary>
+Sieve of Eratosthenes applied in java
+</details>
